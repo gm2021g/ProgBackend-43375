@@ -9,5 +9,7 @@ entrar a localhost:8080 en el navegador
 Ejemplos: 
 
 http://localhost:8080/products
+
 http://localhost:8080/products/2
+
 http://localhost:8080/products?limit=3
