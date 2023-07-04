@@ -1,23 +1,29 @@
 
-# 
-**Primera entrega del proyecto final**
+# **Primera entrega del proyecto final**
 
 ## **Instrucciones:** 
 Abrir el proyecto, nueva terminal
+
 Ejecutar:  npm install   (la primera vez) 
+
 Ejecutar:  nodemon src/index.js
+
 
 -->sale por consola: Servidor arriba y escuchando puerto 8080!!
 
 Entrar a localhost:8080 en el navegador
 
 *Ejemplos:* 
+
 http://localhost:8080/api/products
+
 http://localhost:8080/api/products/2
+
 http://localhost:8080/api/products?limit=3
 
 
-**## Se debe entregar**
+
+## **Se debe entregar:** 
 
 Desarrollar el servidor basado en Node.JS y express, que escuche en el puerto 8080 y disponga de dos grupos de rutas: /products y /carts. Dichos endpoints estarán implementados con el router de express, con las siguientes especificaciones: 
 
