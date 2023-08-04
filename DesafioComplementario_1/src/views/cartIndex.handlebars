@@ -1,0 +1,13 @@
+<h2> Cart </h2>
+<hr>
+{{#each carts}}
+<div>
+    <b> Id de Cart: {{ this.id }} </b>
+    <br>
+    {{#each products}}
+    <b> Id de Product: {{ this.id }} </b>
+    <b> Quantity: {{ this.quantity}} </b>
+    <br>
+    {{/each}}
+</div>
+{{/each}}

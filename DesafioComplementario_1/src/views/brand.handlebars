@@ -1,0 +1,9 @@
+<h2> Fragrances by brand </h2>
+<hr>
+{{#each products}}
+<div>
+    <b> {{ this.name }} </b>
+    <img width="50" src="{{ this.photo }}">
+    <i> {{ this.brand }} </i>
+</div>
+{{/each}}

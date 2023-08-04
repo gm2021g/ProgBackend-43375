@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "PRODUCTO 1",
+    "description": "producto 1",
+    "price": 900,
+    "thumbnail": "http: .... 1 ",
+    "code": 111,
+    "stock": 342
+  },
+  {
+    "id": 2,
+    "title": "PRODUCTO 66",
+    "description": "producto 66",
+    "price": 1100,
+    "thumbnail": "http: ....66 ",
+    "code": 660,
+    "stock": 6000
+  },
+  {
+    "id": 4,
+    "title": "PRODUCTO 4",
+    "description": "producto 4",
+    "price": 234,
+    "thumbnail": "http: .... 4 ",
+    "code": 444,
+    "stock": 657
+  },
+  {
+    "id": 5,
+    "title": "PRODUCTO 9",
+    "description": "producto 9",
+    "price": 900,
+    "thumbnail": "http: .... 9 ",
+    "code": 999,
+    "stock": 9000
+  },
+  {
+    "id": 6,
+    "title": "PRODUCTO 88",
+    "description": "producto 88",
+    "price": 1100,
+    "thumbnail": "http: ....88 ",
+    "code": 888,
+    "stock": 6755
+  }
+]
